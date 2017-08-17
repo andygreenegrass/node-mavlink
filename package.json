@@ -15,10 +15,14 @@
     "mavlink"
   ],
   "dependencies": {
-	"xml2js": ""
+    "debug": "^3.0.0",
+    "xml2js": "^0.4.18"
   },
   "author": "Owen McAree",
   "license": "BSD",
-  "readmeFilename": "Readme.md",
-  "gitHead": "c30f8a63ca6a1ebc1669fefcd07bb3780540e41b"
+  "readmeFilename": "README.md",
+  "gitHead": "c30f8a63ca6a1ebc1669fefcd07bb3780540e41b",
+  "devDependencies": {
+    "eslint": "latest"
+  }
 }
